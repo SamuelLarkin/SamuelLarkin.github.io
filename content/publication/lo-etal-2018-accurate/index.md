@@ -1,0 +1,34 @@
+---
+title: 'Accurate semantic textual similarity for cleaning noisy parallel corpora using
+  semantic machine translation evaluation metric: The NRC supervised submissions to
+  the Parallel Corpus Filtering task'
+authors:
+- Chi-kiu Lo
+- Michel Simard
+- Darlene Stewart
+- Samuel Larkin
+- Cyril Goutte
+- Patrick Littell
+date: '2018-10-01'
+publishDate: '2025-02-19T15:51:58.356930Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the Third Conference on Machine Translation: Shared
+  Task Papers*'
+doi: 10.18653/v1/W18-6481
+abstract: We present our semantic textual similarity approach in filtering a noisy
+  web crawled parallel corpus using YiSi---a novel semantic machine translation evaluation
+  metric. The systems mainly based on this supervised approach perform well in the
+  WMT18 Parallel Corpus Filtering shared task (4th place in 100-million-word evaluation,
+  8th place in 10-million-word evaluation, and 6th place overall, out of 48 submissions).
+  In fact, our best performing system---NRC-yisi-bicov is one of the only four submissions
+  ranked top 10 in both evaluations. Our submitted systems also include some initial
+  filtering steps for scaling down the size of the test corpus and a final redundancy
+  removal step for better semantic and token coverage of the filtered corpus. In this
+  paper, we also describe our unsuccessful attempt in automatically synthesizing a
+  noisy parallel development corpus for tuning the weights to combine different parallelism
+  and fluency features.
+links:
+- name: URL
+  url: https://aclanthology.org/W18-6481
+---
