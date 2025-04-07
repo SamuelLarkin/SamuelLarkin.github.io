@@ -1,17 +1,19 @@
 ---
-title: 'MSLC24: Further Challenges for Metrics on a Wide Landscape of Translation
-  Quality'
+title:
+  "MSLC24: Further Challenges for Metrics on a Wide Landscape of Translation
+  Quality"
 authors:
-- Rebecca Knowles
-- Samuel Larkin
-- Chi-Kiu Lo
-date: '2024-11-01'
-publishDate: '2025-02-19T15:51:58.235798Z'
+  - Rebecca Knowles
+  - Samuel Larkin
+  - Chi-Kiu Lo
+date: "2024-11-01"
+publishDate: "2025-02-19T15:51:58.235798Z"
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Ninth Conference on Machine Translation*'
+  - paper-conference
+publication: "*Proceedings of the Ninth Conference on Machine Translation*"
 doi: 10.18653/v1/2024.wmt-1.34
-abstract: In this second edition of the Metric Score Landscape Challenge (MSLC), we
+abstract:
+  In this second edition of the Metric Score Landscape Challenge (MSLC), we
   examine how automatic metrics for machine translation perform on a wide variety
   of machine translation output, ranging from very low quality systems to the types
   of high-quality systems submitted to the General MT shared task at WMT. We also
@@ -20,6 +22,8 @@ abstract: In this second edition of the Metric Score Landscape Challenge (MSLC),
   in metric scores, some of which can be resolved by increasingly explicit instructions
   for metric use, while others highlight technical flaws.
 links:
-- name: URL
-  url: https://aclanthology.org/2024.wmt-1.34/
+  - name: URL
+    url: https://aclanthology.org/2024.wmt-1.34/
+  - name: Dynamic Graphs
+    url: https://nrc-cnrc.github.io/MSLC/2024/interactive/charts.html
 ---
