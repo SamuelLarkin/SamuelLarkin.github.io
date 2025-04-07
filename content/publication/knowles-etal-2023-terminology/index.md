@@ -20,4 +20,8 @@ abstract: Incorporating terminology into a neural machine translation (NMT) syst
 links:
 - name: URL
   url: https://aclanthology.org/2023.eamt-1.47
+- name: Best Paper Award
+  url: https://x.com/EAMT_2024/status/1668954202968662018
+  icon_pack: hero
+  icon: trophy
 ---
