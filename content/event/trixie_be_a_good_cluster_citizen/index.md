@@ -1,5 +1,5 @@
 ---
-title: Trixie: Be a Good Cluster-Citizen
+title: 'Trixie: Be a Good Cluster-Citizen'
 
 # event: Hugo Blox Builder Conference
 # event_url: https://example.org
@@ -9,7 +9,7 @@ address:
   street: 1200 Montreal rd
   city: Ottawa
   region: Ontario
-  postcode: 'K1A0R6'
+  postcode: 'K1A 0R6'
   country: Canada
 
 summary: A primer on how to use the cluster.
