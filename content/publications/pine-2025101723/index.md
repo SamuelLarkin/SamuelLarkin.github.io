@@ -1,29 +1,30 @@
 ---
 title: Speech Generation for Indigenous Language Education
 authors:
-- Aidan Pine
-- Erica Cooper
-- David Guzmán
-- Eric Joanis
-- Anna Kazantseva
-- Ross Krekoski
-- Roland Kuhn
-- Samuel Larkin
-- Patrick Littell
-- Delaney Lothian
-- Akwiratékha’ Martin
-- Korin Richmond
-- Marc Tessier
-- Cassia Valentini-Botinhao
-- Dan Wells
-- Junichi Yamagishi
-date: '2025-01-01'
-publishDate: '2025-02-19T15:51:58.209960Z'
+  - Aidan Pine
+  - Erica Cooper
+  - David Guzmán
+  - Eric Joanis
+  - Anna Kazantseva
+  - Ross Krekoski
+  - Roland Kuhn
+  - Samuel Larkin
+  - Patrick Littell
+  - Delaney Lothian
+  - Akwiratékha’ Martin
+  - Korin Richmond
+  - Marc Tessier
+  - Cassia Valentini-Botinhao
+  - Dan Wells
+  - Junichi Yamagishi
+date: "2025-01-01"
+publishDate: "2025-02-19T15:51:58.209960Z"
 publication_types:
-- article-journal
-publication: '*Computer Speech & Language*'
+  - article-journal
+publication: "*Computer Speech & Language*"
 doi: https://doi.org/10.1016/j.csl.2024.101723
-abstract: As the quality of contemporary speech synthesis improves, so too does the
+abstract:
+  As the quality of contemporary speech synthesis improves, so too does the
   interest from language communities in developing text-to-speech (TTS) systems for
   a variety of real-world applications. Much of the work on TTS has focused on high-resource
   languages, resulting in implicitly resource-intensive paths to building such systems.
@@ -41,13 +42,13 @@ abstract: As the quality of contemporary speech synthesis improves, so too does 
   speech synthesis software and introduce EveryVoice TTS, a toolkit designed specifically
   for low-resource speech synthesis.
 tags:
-- Speech synthesis
-- Text-to-speech
-- Low-resource languages
-- Indigenous languages
-- Language education
-- Language revitalization
+  - Speech synthesis
+  - Text-to-speech
+  - Low-resource languages
+  - Indigenous languages
+  - Language education
+  - Language revitalization
 links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0885230824001062
+  - name: URL
+    url: https://www.sciencedirect.com/science/article/pii/S0885230824001062
 ---

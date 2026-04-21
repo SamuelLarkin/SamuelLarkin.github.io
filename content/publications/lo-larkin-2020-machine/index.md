@@ -1,15 +1,17 @@
 ---
-title: Machine Translation Reference-less Evaluation using YiSi-2 with Bilingual Mappings
+title:
+  Machine Translation Reference-less Evaluation using YiSi-2 with Bilingual Mappings
   of Massive Multilingual Language Model
 authors:
-- Chi-kiu Lo
-- Samuel Larkin
-date: '2020-11-01'
-publishDate: '2025-02-19T15:51:58.307715Z'
+  - Chi-kiu Lo
+  - Samuel Larkin
+date: "2020-11-01"
+publishDate: "2025-02-19T15:51:58.307715Z"
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Fifth Conference on Machine Translation*'
-abstract: We present a study on using YiSi-2 with massive multilingual pretrained
+  - paper-conference
+publication: "*Proceedings of the Fifth Conference on Machine Translation*"
+abstract:
+  We present a study on using YiSi-2 with massive multilingual pretrained
   language models for machine translation (MT) reference-less evaluation. Aiming at
   finding better semantic representation for semantic MT evaluation, we first test
   YiSi-2 with contextual embed- dings extracted from different layers of two different
@@ -22,6 +24,6 @@ abstract: We present a study on using YiSi-2 with massive multilingual pretraine
   embeddings into the tar- get embedding space using a cross-lingual lin- ear projection
   (CLP) matrix learnt from a small development set.
 links:
-- name: URL
-  url: https://aclanthology.org/2020.wmt-1.100
+  - name: URL
+    url: https://aclanthology.org/2020.wmt-1.100
 ---

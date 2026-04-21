@@ -1,16 +1,17 @@
 ---
 title: Bursty event detection on social media
 authors:
-- Yuanjing Cai
-- Yunli Wang
-- Samuel Larkin
-- Cyril Goutte
-date: '2019-08-01'
-publishDate: '2025-02-19T15:51:58.335923Z'
+  - Yuanjing Cai
+  - Yunli Wang
+  - Samuel Larkin
+  - Cyril Goutte
+date: "2019-08-01"
+publishDate: "2025-02-19T15:51:58.335923Z"
 publication_types:
-- manuscript
-publication: '*ACL Anthology (online)*'
-abstract: Messages posted on social media such as Twitter and Instagram are a rich
+  - manuscript
+publication: "*ACL Anthology (online)*"
+abstract:
+  Messages posted on social media such as Twitter and Instagram are a rich
   and promising source of information on real-life events. However, due to the high
   volume and the noisy nature of posts on social media, the messages reporting events
   are usually overwhelmed by unrelated daily chatter. To detect unspecified events,

@@ -1,22 +1,25 @@
 ---
-title: 'Accurate semantic textual similarity for cleaning noisy parallel corpora using
+title:
+  "Accurate semantic textual similarity for cleaning noisy parallel corpora using
   semantic machine translation evaluation metric: The NRC supervised submissions to
-  the Parallel Corpus Filtering task'
+  the Parallel Corpus Filtering task"
 authors:
-- Chi-kiu Lo
-- Michel Simard
-- Darlene Stewart
-- Samuel Larkin
-- Cyril Goutte
-- Patrick Littell
-date: '2018-10-01'
-publishDate: '2025-02-19T15:51:58.356930Z'
+  - Chi-kiu Lo
+  - Michel Simard
+  - Darlene Stewart
+  - Samuel Larkin
+  - Cyril Goutte
+  - Patrick Littell
+date: "2018-10-01"
+publishDate: "2025-02-19T15:51:58.356930Z"
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Third Conference on Machine Translation: Shared
-  Task Papers*'
+  - paper-conference
+publication:
+  "*Proceedings of the Third Conference on Machine Translation: Shared
+  Task Papers*"
 doi: 10.18653/v1/W18-6481
-abstract: We present our semantic textual similarity approach in filtering a noisy
+abstract:
+  We present our semantic textual similarity approach in filtering a noisy
   web crawled parallel corpus using YiSi---a novel semantic machine translation evaluation
   metric. The systems mainly based on this supervised approach perform well in the
   WMT18 Parallel Corpus Filtering shared task (4th place in 100-million-word evaluation,
@@ -29,6 +32,6 @@ abstract: We present our semantic textual similarity approach in filtering a noi
   noisy parallel development corpus for tuning the weights to combine different parallelism
   and fluency features.
 links:
-- name: URL
-  url: https://aclanthology.org/W18-6481
+  - name: URL
+    url: https://aclanthology.org/W18-6481
 ---
