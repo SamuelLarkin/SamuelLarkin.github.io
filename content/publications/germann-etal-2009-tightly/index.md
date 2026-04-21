@@ -14,6 +14,9 @@ publication:
   "*Proceedings of the Workshop on Software Engineering, Testing, and Quality
   Assurance for Natural Language Processing (SETQA-NLP 2009)*"
 links:
-  - name: URL
+  - name: ACL Anthology
     url: https://aclanthology.org/W09-1505
+url_pdf: https://aclanthology.org/W09-1505.pdf
+tags:
+  - SMT
 ---

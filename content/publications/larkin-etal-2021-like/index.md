@@ -9,19 +9,12 @@ publishDate: "2025-02-19T15:51:58.285995Z"
 publication_types:
   - paper-conference
 publication: "*Proceedings of Machine Translation Summit XVIII: Research Track*"
-abstract:
-  "We revisit the topic of translation direction in the data used for training
-  neural machine translation systems and focusing on a real-world scenario with known
-  translation direction and imbalances in translation direction: the Canadian Hansard.
-  According to automatic metrics and we observe that using parallel data that was
-  produced in the ``matching″ translation direction (Authentic source and translationese
-  target) improves translation quality. In cases of data imbalance in terms of translation
-  direction and we find that tagging of translation direction can close the performance
-  gap. We perform a human evaluation that differs slightly from the automatic metrics
-  and but nevertheless confirms that for this French-English dataset that is known
-  to contain high-quality translations and authentic or tagged mixed source improves
-  over translationese source for training."
+publication_short: MTSummit
 links:
-  - name: URL
+  - name: ACL Anthology
     url: https://aclanthology.org/2021.mtsummit-research.9
+url_pdf: https://aclanthology.org/2021.mtsummit-research.9.pdf
+tags:
+  - MTSummit
+abstract: "We revisit the topic of translation direction in the data used for training neural machine translation systems and focusing on a real-world scenario with known translation direction and imbalances in translation direction: the Canadian Hansard. According to automatic metrics and we observe that using parallel data that was produced in the ``matching″ translation direction (Authentic source and translationese target) improves translation quality. In cases of data imbalance in terms of translation direction and we find that tagging of translation direction can close the performance gap. We perform a human evaluation that differs slightly from the automatic metrics and but nevertheless confirms that for this French-English dataset that is known to contain high-quality translations and authentic or tagged mixed source improves over translationese source for training."
 ---

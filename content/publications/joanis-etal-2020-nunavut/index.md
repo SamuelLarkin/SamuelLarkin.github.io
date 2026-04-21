@@ -16,6 +16,11 @@ publishDate: "2025-02-19T15:51:58.300105Z"
 publication_types:
   - paper-conference
 publication: "*Proceedings of the 12th Language Resources and Evaluation Conference*"
+publication_short: LREC
+links:
+  - name: ACL Anthology
+    url: https://aclanthology.org/2020.lrec-1.312
+url_pdf: https://aclanthology.org/2020.lrec-1.312.pdf
 abstract:
   The Inuktitut language, a member of the Inuit-Yupik-Unangan language family,
   is spoken across Arctic Canada and noted for its morphological complexity. It is
@@ -28,7 +33,4 @@ abstract:
   to date. The paper describes the alignment methodology used, the evaluation of the
   alignments, and preliminary experiments on statistical and neural machine translation
   (SMT and NMT) between Inuktitut and English, in both directions.
-links:
-  - name: URL
-    url: https://aclanthology.org/2020.lrec-1.312
 ---
