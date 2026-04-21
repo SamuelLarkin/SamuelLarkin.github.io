@@ -35,7 +35,7 @@ sections:
       title: "📚 My Research"
       subtitle: ""
       text: |
-        I'm a Research Officer at National Research Council Canada.
+        I'm a Research Officer in Neural Machine Translation at National Research Council Canada.
 
         Please reach out to collaborate 😃
     design:
